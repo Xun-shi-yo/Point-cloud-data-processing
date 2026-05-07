@@ -1,0 +1,25 @@
+{
+    "folder": "pointclouds",
+    "filename": "Sit_361.ply",
+    "path": "pointclouds\\Sit_361.ply",
+    "objects": [
+        {
+            "name": "Sit",
+            "centroid": {
+                "x": 2.48719493,
+                "y": -0.63165693,
+                "z": -0.15924595
+            },
+            "dimensions": {
+                "length": 0.42,
+                "width": 0.82,
+                "height": 1.2
+            },
+            "rotations": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        }
+    ]
+}

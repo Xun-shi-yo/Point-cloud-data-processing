@@ -1,0 +1,25 @@
+{
+	"folder": "pointclouds",
+	"filename": "Lie_566.ply",
+	"path": "pointclouds\\Lie_566.ply",
+	"objects": [
+		{
+			"name": "Lie",
+			"centroid": {
+				"x": 3.11732103,
+				"y": -0.46037391,
+				"z": -0.56709936
+			},
+			"dimensions": {
+				"length": 1.95,
+				"width": 0.91,
+				"height": 0.96
+			},
+			"rotations": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		}
+	]
+}

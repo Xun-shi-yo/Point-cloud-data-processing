@@ -1,0 +1,25 @@
+{
+    "folder": "pointclouds",
+    "filename": "Sit_394.ply",
+    "path": "pointclouds\\Sit_394.ply",
+    "objects": [
+        {
+            "name": "Squat",
+            "centroid": {
+                "x": 2.53625493,
+                "y": -0.54377428,
+                "z": -0.15623049
+            },
+            "dimensions": {
+                "length": 1.02,
+                "width": 0.55,
+                "height": 1.23
+            },
+            "rotations": {
+                "x": 0,
+                "y": 0,
+                "z": 80
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+	"folder": "pointclouds",
+	"filename": "Stand_10.ply",
+	"path": "pointclouds\\Stand_10.ply",
+	"objects": [
+		{
+			"name": "Stand",
+			"centroid": {
+				"x": 2.59125092,
+				"y": -0.4428072,
+				"z": -0.07130523
+			},
+			"dimensions": {
+				"length": 1.71860998,
+				"width": 0.78613177,
+				"height": 1.13238241
+			},
+			"rotations": {
+				"x": 0,
+				"y": 321.12228762,
+				"z": 181.38365042
+			}
+		}
+	]
+}

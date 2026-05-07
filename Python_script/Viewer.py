@@ -31,6 +31,6 @@ if __name__ == "__main__":
         file_path = sys.argv[1]
     else:
         # 默认路径，改成你实际的 PLY 文件
-        file_path = r'F:\E1R_driver\ray_radar_data\Cloud_data\Summary\pointclouds\Lie_700.ply'
+        file_path = r'F:\E1R_driver\ray_radar_data\Cloud_data\Precise_data\Lie\sec002\prec_2.ply'
 
     view_ply(file_path)
